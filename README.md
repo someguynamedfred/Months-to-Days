@@ -1,1 +1,3 @@
-concatenate str to int and int to str is proving to be a challenge here. 
+# Month and Year converter
+
+Expects input from user to produce how many days have passed over a certain amount of months and years.
